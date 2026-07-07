@@ -54,14 +54,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ojaswi-Gupta&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
-</p>
-
----
-
 <p align="center">
   <em>"First, solve the problem. Then, write the code."</em> — John Johnson
 </p>
